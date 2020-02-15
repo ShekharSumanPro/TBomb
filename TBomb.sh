@@ -27,7 +27,7 @@ echo -e "\e[1;31m"
 figlet TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border SpeedX
-echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
+echo -e "\e[4;34m This Bomber Was Created By Shekhar Suman \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: wanted.hacker7@gmail.com \e[0m"
 echo -e "\e[4;32m   FeceBook: https://www.facebook.com/ssumanpro \e[0m"
