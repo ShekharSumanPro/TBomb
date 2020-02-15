@@ -110,15 +110,15 @@ sudo bash TBomb.sh
 ## CONTRIBUTORS:
 
 - **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
+[-] Mail At: wanted.hacker7@gmail.com
 
 - **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
+[-] Check At: https://github.com/ShekharSumanPro
 
 - **The Black Hacker Roxstar**<br>
 
 - **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
+[-] Ping At: https://t.me/shekhar496
 
 - **0n1cOn3 (Stefan)**<br>
 [-] Mail At: 0n1cOn3@gmx.ch
@@ -134,8 +134,8 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
+                 Mail: wanted.hacker7@gmail.com<br>
+       FaceBook: https://www.facebook.com/ssumanpro
 ```
 
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+<a href="https://www.facebook.com/ssumanpro">Check Out My FaceBook</a>
