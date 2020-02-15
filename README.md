@@ -48,6 +48,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
+pip install --upgrade pip
 git clone https://github.com/ShekharSumanPro/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
