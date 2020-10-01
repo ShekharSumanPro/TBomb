@@ -1,3 +1,4 @@
+An amazing project
 <h1 align="center">TBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
@@ -83,7 +84,7 @@ To use the bomber type the following commands in macOS terminal:
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# Install dependencys:
+# Install dependencies:
 
 brew install git
 brew install python3
@@ -102,7 +103,7 @@ Toilet cannot be installed yet. But TBomb does still work.
 sudo bash TBomb.sh
 ```
 
-## Demontrative Video:
+## Demontsrative Video:
 
 - Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
 - Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
